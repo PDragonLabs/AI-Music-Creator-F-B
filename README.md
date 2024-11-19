@@ -1,4 +1,4 @@
-# AI Music Creation App F/B
+# AI Music Creation App F/B From images and audio timelines
 
 -under construction-
 Title: Designing Integrated SaaS Apps for X.com
